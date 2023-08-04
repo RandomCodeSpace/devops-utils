@@ -7,7 +7,13 @@
   <version>0.0.0</version>
   <description>Utility for DevOps</description>
   <url>https://github.com/RandomCodeSpace/devops-utils</url>
-
+  <licenses>
+    <license>
+      <name>MIT License</name>
+      <url>https://opensource.org/licenses/MIT</url>
+      <distribution>repo</distribution>
+    </license>
+  </licenses>
   <scm>
     <url>https://github.com/RandomCodeSpace/devops-utils.git</url>
     <connection>scm:git:github.com/RandomCodeSpace/devops-utils.git</connection>
